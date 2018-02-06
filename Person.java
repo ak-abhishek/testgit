@@ -6,7 +6,7 @@ public class Person{
 	public Person(String firstNmae, String lastName)
 	{
 		this.lastName=lastName;
-		this.firstName-firstName;
+		this.firstName=firstName;
 		
 	}
 	public void fun(String firstName) throws IOException
