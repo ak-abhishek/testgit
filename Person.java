@@ -9,4 +9,7 @@ public class Person{
 		this.firstName-firstName;
 		
 	}
+	public void fun() throws IOException
+	{
+	}
 }
