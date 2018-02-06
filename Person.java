@@ -9,7 +9,11 @@ public class Person{
 		this.firstName-firstName;
 		
 	}
-	public void fun() throws IOException
-	{
+	public void fun(String firstName) throws IOException
+	{ 
+		this.firstName = firstName;
+		this.lastName = "Shukla";
+
 	}
+
 }
